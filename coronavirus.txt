@@ -1,3 +1,7 @@
 Italia supero a China en muertos
+<<<<<<< HEAD
 
 Hoy en Argentina empieza la cuarentena total (Tom)
+=======
+Espero que en Argentina no se propague mucho mas el virus(Val)
+>>>>>>> 9089de06fb841b6d231a915932bf21176bf747cf
